@@ -1,0 +1,11 @@
+iframe {
+    border-radius: 15px; /* Adjust the radius as desired */
+    border: 2px solid #ccc; /* Optional: Add a custom border color */
+    padding: 10px; /* Optional: Adjust padding */
+}
+
+input {
+    border-radius: 15px; /* Adjust the radius as desired */
+    border: 2px solid #ccc; /* Optional: Add a custom border color */
+    padding: 10px; /* Optional: Adjust padding */
+}
